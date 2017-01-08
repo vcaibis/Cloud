@@ -34,7 +34,7 @@ public class EndpointsAsyncTask_Question extends AsyncTask<Void,Void,List<Questi
         if(questionApi == null){
             QuestionApi.Builder builder = new QuestionApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(),null)
-                    .setRootUrl("https://questionboard-155021.appspot.com/_ah/api/");
+                    .setRootUrl("https://cloud-154516.appspot.com/_ah/api/");
             questionApi = builder.build();
         }
 

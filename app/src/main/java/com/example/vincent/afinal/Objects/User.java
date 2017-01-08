@@ -6,7 +6,7 @@ package com.example.vincent.afinal.Objects;
 
 public class User {
 
-    long id;
+    Long id;
     String userName;
     String password;
 
@@ -19,7 +19,7 @@ public class User {
         this.password = password;
     }
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 

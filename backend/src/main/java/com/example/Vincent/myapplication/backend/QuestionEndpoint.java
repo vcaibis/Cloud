@@ -80,7 +80,6 @@ public class QuestionEndpoint {
         // Objectify ID generator, e.g. long or String, then you should generate the unique ID yourself prior to saving.
         //
         // If your client provides the ID then you should probably use PUT instead.
-
         //Relationship between answers and questions
         ofy().save().entities(question.getAnswers()).now();
         //Save question in the DB

@@ -9,7 +9,7 @@ import java.io.Serializable;
 public class Question implements Serializable{
 
     private static final long serialVersionUID = -7406082437623008161L;
-    long Id;
+    Long Id;
     String title;
 
     public Question() {
@@ -20,7 +20,7 @@ public class Question implements Serializable{
         this.title = title;
     }
 
-    public long getId() {
+    public Long getId() {
         return Id;
     }
 

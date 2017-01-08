@@ -22,7 +22,7 @@ public class Question implements Serializable{
         strategy = GenerationType.IDENTITY
     )
     private static final long serialVersionUID = -7406082437623008161L;
-    long Id;
+    Long Id;
     private String title;
     private List<Answer> answers = new ArrayList();
 
@@ -42,7 +42,7 @@ public class Question implements Serializable{
         this.title = title;
     }
 
-    public long getId() {
+    public Long getId() {
         return Id;
     }
 

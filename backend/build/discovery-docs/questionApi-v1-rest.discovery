@@ -1,6 +1,6 @@
 {
  "kind": "discovery#restDescription",
- "etag": "\"ODRTh3xaRR64wpeXJSlF33HMN-0/GLwMD70XfLFudXmkR-dY3SFNvw0\"",
+ "etag": "\"ODRTh3xaRR64wpeXJSlF33HMN-0/kXSRHPH3f3vpfwAbqglPZ4ZgrF8\"",
  "discoveryVersion": "v1",
  "id": "questionApi:v1",
  "name": "questionApi",
@@ -13,9 +13,9 @@
   "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
  },
  "protocol": "rest",
- "baseUrl": "https://questionboard-155021.appspot.com/_ah/api/questionApi/v1/",
+ "baseUrl": "https://cloud-154516.appspot.com/_ah/api/questionApi/v1/",
  "basePath": "/_ah/api/questionApi/v1/",
- "rootUrl": "https://questionboard-155021.appspot.com/_ah/api/",
+ "rootUrl": "https://cloud-154516.appspot.com/_ah/api/",
  "servicePath": "questionApi/v1/",
  "batchPath": "batch",
  "parameters": {

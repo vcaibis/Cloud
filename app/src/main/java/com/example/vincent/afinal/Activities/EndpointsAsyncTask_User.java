@@ -32,7 +32,7 @@ public class EndpointsAsyncTask_User extends AsyncTask<Void,Void,List<User>>{
         if(userApi == null){
             UserApi.Builder builder = new UserApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(),null)
-                    .setRootUrl("https://questionboard-155021.appspot.com/_ah/api/");
+                    .setRootUrl("https://cloud-154516.appspot.com/_ah/api/");
             userApi = builder.build();
         }
 

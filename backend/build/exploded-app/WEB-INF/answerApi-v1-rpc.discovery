@@ -1,6 +1,6 @@
 {
  "kind": "discovery#rpcDescription",
- "etag": "\"ODRTh3xaRR64wpeXJSlF33HMN-0/yaWYyn1NR0Z3vLGGwdWK8RIIKCw\"",
+ "etag": "\"ODRTh3xaRR64wpeXJSlF33HMN-0/0MZq_Y1I1dzlgtCjKKj-1ejwPuc\"",
  "discoveryVersion": "v1",
  "id": "answerApi:v1",
  "name": "answerApi",
@@ -13,8 +13,8 @@
   "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
  },
  "protocol": "rpc",
- "rootUrl": "https://questionboard-155021.appspot.com/_ah/api/",
- "rpcUrl": "https://questionboard-155021.appspot.com/_ah/api/rpc",
+ "rootUrl": "https://cloud-154516.appspot.com/_ah/api/",
+ "rpcUrl": "https://cloud-154516.appspot.com/_ah/api/rpc",
  "rpcPath": "/_ah/api/rpc",
  "parameters": {
   "alt": {
